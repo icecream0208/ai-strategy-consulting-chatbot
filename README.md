@@ -1,4 +1,4 @@
-# Grounded Chatbot (PDF + CSV)
+# AI Strategy Consulting Chatbot
 
 ## What this repo contains
 A minimal runnable version of a grounded chatbot:
